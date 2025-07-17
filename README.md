@@ -9,7 +9,7 @@ My practice files while learning HTML step by step.
 ✅ Background color and text color 
 ✅ Font-family, font-size(px and %) and text-align
 ✅**Formatting tags**:
-  '<b>','<strong>','<i>','<em>','<mark>','<small>','<del>','<ins>','<sub>','<sup>'
+  `<b>`,`<strong>`,`<i>`,`<em>`,`<mark>`,`<small>`,`<del>`,`<ins>`,`<sub>`,`<sup>`
 
   ---
 
@@ -26,5 +26,5 @@ My practice files while learning HTML step by step.
 ---
 
 ## Next topics to learn
--Lists
--Tables
+- Lists
+- Tables
