@@ -10,6 +10,13 @@ My practice files while learning HTML step by step.
 ✅ Font-family, font-size(px and %) and text-align
 ✅**Formatting tags**:
   `<b>`,`<strong>`,`<i>`,`<em>`,`<mark>`,`<small>`,`<del>`,`<ins>`,`<sub>`,`<sup>`
+✅ **Quotation tags***:
+ - `<blockquote>` with `<cite>`
+ - `<q>`
+ - `<abbr>`
+ - `<cite>`
+ - `<address>`
+ - `<bdo>`
 
   ---
 
@@ -22,6 +29,7 @@ My practice files while learning HTML step by step.
 - 'text-style-demo.html' - Font styling and alignment 
 - 'mix practice 1.html' - Mixed tag practice
 - 'formatting-tags.html' - All text formatting tags practice
+- `quotation-tags.html1` - quotation practice
 
 ---
 
