@@ -29,7 +29,13 @@ My practice files while learning HTML step by step.
   - internal css
   - external css (file and link)
   - border (margin and padding)
-
+- **HTML LINKS**
+  - links
+  - target(self and blank)
+  - absolute and relative url
+  - img as link
+  - mailto
+  - title attribute
   ---
 
 ## 📝 Files in This Repo
@@ -48,6 +54,7 @@ My practice files while learning HTML step by step.
 - `html-external-css-file.html` - practicing external css with file
 - `html-external-css-link.html` - practicing external css with link
 - `border-margin-padding.html` - practicing basic border and marign & padding
+- `html-links.html` - practicing links,target,absolute and relative url,using img as link,mailto,title attribute.
 ---
 
 ## Next topics to learn
