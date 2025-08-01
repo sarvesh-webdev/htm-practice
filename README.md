@@ -38,6 +38,9 @@ My practice files while learning HTML step by step.
   - title attribute
   - link color 
   - bookmark
+- **HTML IMAGE**
+ - html image
+ - image mapping
   ---
 
 ## 📝 Files in This Repo
@@ -59,6 +62,8 @@ My practice files while learning HTML step by step.
 - `html-links.html` - practicing links,target,absolute and relative url,using img as link,mailto,title attribute.
 - `html-link-color.html` - practicing how to change color of link when active,visited,hover.
 - `html-link-bookmark.html` - practicing bookmark
+- `html-image.html` - practicing html image
+- `html-imagemap.html` - practicing html image mapping
 ---
 
 ## Next topics to learn
