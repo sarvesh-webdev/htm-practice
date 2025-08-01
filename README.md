@@ -36,6 +36,8 @@ My practice files while learning HTML step by step.
   - img as link
   - mailto
   - title attribute
+  - link color 
+  - bookmark
   ---
 
 ## 📝 Files in This Repo
@@ -55,6 +57,8 @@ My practice files while learning HTML step by step.
 - `html-external-css-link.html` - practicing external css with link
 - `border-margin-padding.html` - practicing basic border and marign & padding
 - `html-links.html` - practicing links,target,absolute and relative url,using img as link,mailto,title attribute.
+- `html-link-color.html` - practicing how to change color of link when active,visited,hover.
+- `html-link-bookmark.html` - practicing bookmark
 ---
 
 ## Next topics to learn
