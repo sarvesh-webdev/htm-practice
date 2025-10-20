@@ -41,6 +41,15 @@ My practice files while learning HTML step by step.
 - **HTML IMAGE**
  - html image
  - image mapping
+
+-**HTML list**
+ -ordered list
+ -unordered list
+ -description list
+
+-**HTML table**
+-**HTML forms**
+
   ---
 
 ## 📝 Files in This Repo
@@ -64,8 +73,10 @@ My practice files while learning HTML step by step.
 - `html-link-bookmark.html` - practicing bookmark
 - `html-image.html` - practicing html image
 - `html-imagemap.html` - practicing html image mapping
+- `html-list.html` - practicing html lists
+- `html-table.html` - practicing html table
+- `html-form.html` - practicing html forms
 ---
 
 ## Next topics to learn
-- Lists
-- Tables
+- completed basic , advance topics pending

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="sarvesh">
+    <meta name="description" content="practicing html lists">
+    <link rel="stylesheet" href="main.css">
+    <title>practicing forms</title>
+</head>
+<body>
+    <header>
+        <h1>practicing form</h1>
+    </header>
+    <main>
+        <form action="#" method="get">
+            <fieldset>
+            <legend>practicing form</legend>
+          <p>  <label for="firstname">First Name:</label>
+            <input type="text" id="firstname" name="firstname" placeholder="Enter first name"
+            autocomplete="on" autofocus required>
+            </p>
+            <p>
+                <label for="lastname">Last Name</label>
+                <input type="text" id="lastname" name="lastname"
+                placeholder="Enter last name" autocomplete="on" required>
+            </p>
+            <p>
+                <label for="phone">Phone:</label>
+                <input type="tel" id="phone" name="phone" 
+                placeholder="5555-555-555" 
+                pattern="[0-9]{3}[0-9]{3}[0-9]{4}" required>
+            </p>
+            <p>
+                <label for="coffee">Favourite Coffee:</label>
+                <select name="coffee" id="coffee" >
+                  <optgroup label="coffees"></optgroup>  <option value="regular coffee">regular coffee</option>
+                    <option value="iced coffee">iced coffee</option></optgroup>
+                  <optgroup label="expresso-drinks"><option value="latte">latte</option>
+                    <option value="cappuccino">cappuccino</option>
+                    <option value="cortado">cortado</option>
+                    <option value="americano">americano</option>
+                    <option value="other">other</option></optgroup>
+                </select>
+            </p>
+            <p>
+                <label for="coffeetx">
+                    write your favourite coffee:</label>
+                    <input type="text" id="coffeetx" name="coffee" list="coffee-list">
+                    <datalist id="coffee-list">
+                        <option value="coffee">coffee</option>
+                        <option value="iced coffee">iced coffee</option>
+                        <option value="latte">latte</option>
+                        <option value="cortado">cortado</option>
+                        <option value="cappuccino">cappuccino</option>
+                        <option value="americano">americano</option>
+                        <option value="other">other</option>
+                    </datalist>
+            </p>
+            <p>
+                <p>favourite food:</p>
+                <input type="radio" name="food" value="tacos" id="tacos">
+                <label for="tacos">Tacos</label>
+                <input type="radio" name="food" value="pizza" id="pizza">
+                <label for="pizza">pizza</label>
+                <input type="radio" name="food" value="other" id="other">
+                <label for="other">other</label>
+            </p>
+            <p>do you have pet:</p>
+            <P>
+                <input type="checkbox" name="pets" id="dog" value="dog" >
+                <label for="dog">dog</label>
+                <input type="checkbox" name="pets" id="cat" value="cat" >
+                <label for="cat">cat</label>
+                <input type="checkbox" name="pets" id="fish" value="fish" >
+                <label for="fish">fish</label>
+            </P>
+            <p>
+                <label for="msg">your message</label><br>
+                <textarea name="message" id="msg" cols="30" rows="10" placeholder="type your message here"></textarea>
+            </p>
+
+
+        </fieldset>
+        <button type="submit">Submit</button>
+        <button type="reset">Reset</button>
+        </form>
+    </main>
+</body>
+</html>

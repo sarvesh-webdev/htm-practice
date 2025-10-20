@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    color:whitesmoke;
+    
+}
+th,td,caption{
+    border: 2px solid ;
+    text-align: center;
+}
