@@ -42,13 +42,13 @@ My practice files while learning HTML step by step.
  - html image
  - image mapping
 
--**HTML list**
- -ordered list
- -unordered list
- -description list
+- **HTML list**
+ - ordered list
+ - unordered list
+ - description list
 
--**HTML table**
--**HTML forms**
+- **HTML table**
+- **HTML forms**
 
   ---
 
